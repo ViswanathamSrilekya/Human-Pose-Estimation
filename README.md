@@ -1,6 +1,4 @@
-Here’s an improved and well-structured version of your README:  
 
----
 
 # 🏃‍♂️ Human Pose Estimation (HPE)  
 
@@ -44,6 +42,3 @@ python openpose.py --input image.jpg --thr 0.5
 ## 📜 License  
 This project is open-source and available for use under the appropriate license.  
 
----  
-
-This version enhances readability, adds proper formatting, and makes it visually appealing. Let me know if you need further refinements! 🚀
