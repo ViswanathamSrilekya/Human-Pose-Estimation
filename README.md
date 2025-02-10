@@ -38,7 +38,8 @@ python openpose.py --input image.jpg --thr 0.5
 ```  
 
 ## 📷 Example Output  
-*(Include an example image or result screenshot if possible)*  
+![image](https://github.com/user-attachments/assets/00fe8298-871c-4c05-a04b-84b02d2c7cfd)
+
 
 ## 📜 License  
 This project is open-source and available for use under the appropriate license.  
